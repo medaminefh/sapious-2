@@ -17,3 +17,17 @@ p span {
 ul {
   list-style: square;
 }
+
+a {
+  color: #333;
+  text-decoration: underline;
+}
+
+h4 {
+  text-transform: uppercase;
+}
+
+button {
+  background-color: #222;
+  color: #eee;
+}
